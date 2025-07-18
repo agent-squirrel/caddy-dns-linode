@@ -1,4 +1,4 @@
-module github.com/caddy-dns/linode
+module github.com/agent-squirrel/caddy-dns-linode
 
 go 1.24
 
