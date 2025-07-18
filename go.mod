@@ -1,4 +1,4 @@
-module github.com/agent-squirrel/caddy-dns-linode
+module github.com/caddy-dns/linode
 
 go 1.24
 
@@ -6,7 +6,7 @@ toolchain go1.24.5
 
 require (
 	github.com/caddyserver/caddy/v2 v2.10.0
-	github.com/libdns/linode v0.4.1
+	github.com/libdns/linode v0.0.0-00010101000000-000000000000
 )
 
 require (
